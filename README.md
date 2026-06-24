@@ -49,7 +49,7 @@ Each SQL file follows this format:
 
 ## Approach
 
-- Practicing SQL through structured exercises
+- Practicing SQL through structured exercise
 - Writing clean and optimized queries
 - Documenting concepts directly within SQL files
 - Improving problem-solving consistency
