@@ -8,7 +8,7 @@
 /* -------------------- EASY LEVEL -------------------- */
 
 -- Q1: Show all product names
-SELECT product_name 
+SELECT product_name
 FROM products;
 
 -- Q2: Show product name and price
